@@ -7,7 +7,7 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ### **Tecnologias e Ferramentas**
 
-* **Front-End:**
+**Front-End:**
   
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,11 +23,11 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 [![Grunt](https://img.shields.io/badge/Grunt-F29D44?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com/)
 [![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 
-* **Back-End:**
+**Back-End:**
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-* **Tools:**
+**Tools:**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
