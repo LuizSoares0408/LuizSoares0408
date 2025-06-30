@@ -32,6 +32,7 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 **Tools:**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
