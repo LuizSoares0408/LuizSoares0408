@@ -1,4 +1,4 @@
-### **Olá, eu sou o Luiz Soares** 👋
+### **Olá, eu sou o Luiz Soares!** 👋
 
 Desenvolvedor **Full Stack Java** em formação pela EBAC. Tenho uma sólida base em **Engenharia Mecânica**, o que me deu um perfil **analítico** e **comunicativo**, e experiência nas áreas de qualidade e vendas técnicas.
 
