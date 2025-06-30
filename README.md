@@ -45,6 +45,12 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ---
 
+### **Em desenvolvimento**
+
+Atualmente, estou me aprofundando em Java e aprimorando minhas habilidades em desenvolvimento back-end
+
+---
+
 ### **Entre em Contato**
 
 * Cel.: (15) 98175-1292 
