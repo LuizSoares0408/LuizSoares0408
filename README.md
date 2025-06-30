@@ -25,12 +25,6 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ---
 
-### **Estatísticas do GitHub**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizSoares0408&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### **Projetos em Destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=eplay&theme=dark&v=1)](https://github.com/LuizSoares0408/eplay)
