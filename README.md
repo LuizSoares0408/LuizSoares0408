@@ -47,8 +47,8 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ### **Entre em Contato**
 
-Cel.: (15) 98175-1292 
+* Cel.: (15) 98175-1292 
 
-E-mail: luiz.h.g.soares@outlook.com
+* E-mail: luiz.h.g.soares@outlook.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsoares1994/)
