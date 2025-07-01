@@ -55,6 +55,6 @@ Atualmente, estou me aprofundando em Java e aprimorando minhas habilidades em de
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsoares1994/)
 
-* * Cel.: (15) 98175-1292 
+* Cel.: (15) 98175-1292 
 
 * E-mail: luiz.h.g.soares@outlook.com
