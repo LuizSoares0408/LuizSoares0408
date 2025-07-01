@@ -1,7 +1,8 @@
 # 👋 **Olá, eu sou o Luiz Soares!** 
 
-Desenvolvedor Full Stack Java em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em Engenharia Mecânica. Possuo experiência na área de qualidade e vendas técnicas. Profissional com perfil analítico e comunicativo. 
-Experiência em desenvolvimento de software adquirida por meio de projetos práticos como elaboração de interfaces web responsivas e interativas.
+Desenvolvedor Full Stack Java em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em Engenharia Mecânica. Minha transição para a tecnologia foi motivada pela paixão em solucionar problemas e otimizar processos, habilidades aprimoradas na minha experiência com qualidade e vendas técnicas. Vi na programação a ferramenta ideal para construir soluções inovadoras.
+
+Minha trajetória profissional me proporcionou um perfil analítico e comunicativo, que me permite entender desafios complexos e colaborar de forma eficaz em equipes. Sou proativo, com grande curiosidade em aprender e aprofundar-me nas tecnologias mais recentes.
 
 ---
 
