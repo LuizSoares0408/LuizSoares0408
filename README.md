@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando em Java e aprimorando minhas habilidades em de
 
 ---
 
-## 📬 **Entre em Contato**
+## 📬 **Contato**
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsoares1994/)
 
