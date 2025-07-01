@@ -1,11 +1,11 @@
-## **Olá, eu sou o Luiz Soares!** 👋
+# **Olá, eu sou o Luiz Soares!** 👋
 
 Desenvolvedor Full Stack Java em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em Engenharia Mecânica. Possuo experiência na área de qualidade e vendas técnicas. Profissional com perfil analítico e comunicativo. 
 Experiência em desenvolvimento de software adquirida por meio de projetos práticos como elaboração de interfaces web responsivas e interativas.
 
 ---
 
-### 🚀 **Tecnologias e Ferramentas**
+## 🚀 **Tecnologias e Ferramentas**
 
 **Front-End:**
   
@@ -36,7 +36,7 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ---
 
-### 📚 **Projetos em Destaque**
+## 📚 **Projetos em Destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=eplay&theme=dark&v=1)](https://github.com/LuizSoares0408/eplay)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=clone_disneyplus&theme=dark&v=2)](https://github.com/LuizSoares0408/clone_disneyplus)
@@ -45,13 +45,13 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ---
 
-### 📈 **Em desenvolvimento**
+## 📈 **Em desenvolvimento**
 
 Atualmente, estou me aprofundando em Java e aprimorando minhas habilidades em desenvolvimento back-end.
 
 ---
 
-### 📬 **Entre em Contato**
+## 📬 **Entre em Contato**
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsoares1994/)
 
