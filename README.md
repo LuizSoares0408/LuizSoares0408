@@ -5,7 +5,7 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ---
 
-### **Tecnologias e Ferramentas**
+### 🚀 **Tecnologias e Ferramentas**
 
 **Front-End:**
   
@@ -45,13 +45,13 @@ Experiência em desenvolvimento de software adquirida por meio de projetos prát
 
 ---
 
-### **Em desenvolvimento**
+### 📈 **Em desenvolvimento**
 
 Atualmente, estou me aprofundando em Java e aprimorando minhas habilidades em desenvolvimento back-end.
 
 ---
 
-### **Entre em Contato**
+### 📬 **Entre em Contato**
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsoares1994/)
 
