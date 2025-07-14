@@ -41,8 +41,9 @@ Minha trajetória profissional me proporcionou um perfil analítico e comunicati
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=eplay&theme=dark&v=1)](https://github.com/LuizSoares0408/eplay)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=clone_disneyplus&theme=dark&v=2)](https://github.com/LuizSoares0408/clone_disneyplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=efood&theme=dark&v=2)](https://github.com/LuizSoares0408/efood)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto_calculadora_medias&theme=dark&v=2)](https://github.com/LuizSoares0408/projeto_calculadora_medias)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=site_gamesshop&theme=dark&v=2)](https://github.com/LuizSoares0408/site_gamesshop)
+
 
 ---
 
