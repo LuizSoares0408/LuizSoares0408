@@ -39,7 +39,7 @@ Minha trajetória profissional me proporcionou um perfil analítico e comunicati
 
 ## 📚 **Projetos em Destaque**
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto1&theme=dark&v=1)](https://github.com/LuizSoares0408/projeto1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=eplay&theme=dark&v=1)](https://github.com/LuizSoares0408/eplay)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=efood&theme=dark&v=2)](https://github.com/LuizSoares0408/efood)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=minhas-tarefas&theme=dark&v=2)](https://github.com/LuizSoares0408/minhas-tarefas)
