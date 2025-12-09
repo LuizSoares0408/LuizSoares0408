@@ -41,9 +41,6 @@ Minha trajetória profissional me proporcionou um perfil analítico e comunicati
 
 ## 📚 **Projetos em Destaque**
 
-* [**eFood (App de Delivery)**](https://github.com/LuizSoares0408/efood)
-* [**Clone Disney Plus**](https://github.com/LuizSoares0408/clone_disneyplus)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto4&theme=dark&v=1)](https://github.com/LuizSoares0408/projeto4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto1&theme=dark&v=1)](https://github.com/LuizSoares0408/projeto1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=eplay&theme=dark&v=1)](https://github.com/LuizSoares0408/eplay)
