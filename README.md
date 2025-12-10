@@ -41,8 +41,6 @@ Minha trajetória profissional me proporcionou um perfil analítico e comunicati
 
 ## 📚 **Projetos em Destaque**
 
-## 📚 Projetos em Destaque
-
 * ### [Gestão de Vendas](https://github.com/LuizSoares0408/projeto4)
     * Sistema de gestão de vendas em Java (CRUD para Clientes, Produtos e Vendas).
 
@@ -66,8 +64,6 @@ Minha trajetória profissional me proporcionou um perfil analítico e comunicati
 
 * ### [Site Gameshop](https://github.com/LuizSoares0408/site_gamesshop)
     * Construção de uma landing page de uma loja de games.
-
----
 
 ---
 
