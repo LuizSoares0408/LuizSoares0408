@@ -41,14 +41,33 @@ Minha trajetória profissional me proporcionou um perfil analítico e comunicati
 
 ## 📚 **Projetos em Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto4&theme=dark)](https://github.com/LuizSoares0408/projeto4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto1&theme=dark)](https://github.com/LuizSoares0408/projeto1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=eplay&theme=dark)](https://github.com/LuizSoares0408/eplay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=efood&theme=dark)](https://github.com/LuizSoares0408/efood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=minhas-tarefas&theme=dark)](https://github.com/LuizSoares0408/minhas-tarefas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=clone_disneyplus&theme=dark)](https://github.com/LuizSoares0408/clone_disneyplus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=projeto_calculadora_medias&theme=dark)](https://github.com/LuizSoares0408/projeto_calculadora_medias)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizSoares0408&repo=site_gamesshop&theme=dark)](https://github.com/LuizSoares0408/site_gamesshop)
+## 📚 Projetos em Destaque
+
+* ### [Gestão de Vendas](https://github.com/LuizSoares0408/projeto4)
+    * Sistema de gestão de vendas em Java (CRUD para Clientes, Produtos e Vendas).
+
+* ### [Cadastro de Clientes](https://github.com/LuizSoares0408/projeto1)
+    * Aplicação desktop para cadastro e gerenciamento de clientes em Java com a biblioteca Swing.
+
+* ### [Eplay](https://github.com/LuizSoares0408/eplay)
+    * Landing page de e-commerce de jogos com React, Redux, TypeScript e Styled Components.
+
+* ### [Efood](https://github.com/LuizSoares0408/efood)
+    * Landing page de e-commerce de restaurantes com React, Redux, TypeScript e Styled Components.
+
+* ### [Minhas Tarefas](https://github.com/LuizSoares0408/minhas-tarefas)
+    * Aplicação web de listagem de tarefas com React, Redux, TypeScript e Styled Components.
+
+* ### [Clone Disneyplus](https://github.com/LuizSoares0408/clone_disneyplus)
+    * Landing page de um clone da página do Disney+. HTML, CSS e Javascript.
+
+* ### [Projeto Calculadora de Médias](https://github.com/LuizSoares0408/projeto_calculadora_medias)
+    * Construção de uma aplicação web para calcular a média de notas de atividades de alunos.
+
+* ### [Site Gameshop](https://github.com/LuizSoares0408/site_gamesshop)
+    * Construção de uma landing page de uma loja de games.
+
+---
 
 ---
 
